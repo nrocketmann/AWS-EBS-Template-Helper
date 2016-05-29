@@ -1,2 +1,2 @@
-# Restaurant-Finder
-finds free nearby restaurants
+# AWS-EBS-Template-Helper
+Template to configure your app for AWS-EBS
