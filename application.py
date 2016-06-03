@@ -1,2 +1,3 @@
-"""This is the final application doc. NOT TO BE EDITED UNTIL THE HACKATHON. Static files go in the /static/ folder.
-Static files are .js functions or CSS markings that you don't want to put in the template. We don't have to use it, but I set up a static files bin. Templates all go in the templates folder. Name them properly and descriptively. Requirements.txt has our requirements to be compatible with aws ebs"""
+"""This is where the application goes. Write your backend here with PHP, python, or whatever else you want to use.
+All of your templates go in the templates folder, static in static, etc. The config files are all written so that all
+you need to do is put your code in. Zip it up and upload it to EBS. It should run fine. Hope this helps!"""
